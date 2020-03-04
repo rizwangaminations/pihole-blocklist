@@ -12,6 +12,7 @@
   <code> https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt </code>
   
   <code> https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt </code>
+  <code> https://raw.githubusercontent.com/rizwangaminations/pihole-blocklist/master/myList.txt </code> 
   
 ### Warning
   I included a few aggressive lists which can impact your regular internet browsing experience. I suggest you check the log query & whitelist the queries which case problem on regular browsing. All the facebook & twitter domains are blocked by default.

@@ -37,3 +37,5 @@ support0.bigo.sg
 exp.bigo.sg
 videosnap.like.video
 socks.like.video
+https-api.like.video
+https-api.bigolive.tv
