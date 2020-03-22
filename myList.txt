@@ -39,3 +39,4 @@ videosnap.like.video
 socks.like.video
 https-api.like.video
 https-api.bigolive.tv
+api.imotech.tech
