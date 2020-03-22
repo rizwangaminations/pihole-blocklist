@@ -40,3 +40,5 @@ socks.like.video
 https-api.like.video
 https-api.bigolive.tv
 api.imotech.tech
+lbs.like.video
+video.like
